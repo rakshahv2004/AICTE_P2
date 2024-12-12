@@ -1,5 +1,6 @@
 # AICTE_P2
-P2: Attendance Management System Using Face Recognition Overview This Python-based project automates student attendance tracking by leveraging face recognition technology. It employs OpenCV for face detection and recognition, along with a user-friendly GUI created with Tkinter. Key functionalities include real-time face recognition, image training, and efficient attendance record management.
+P2: Attendance Management System Using Face Recognition 
+Overview: This Python-based project automates student attendance tracking by leveraging face recognition technology. It employs OpenCV for face detection and recognition, along with a user-friendly GUI created with Tkinter. Key functionalities include real-time face recognition, image training, and efficient attendance record management.
 
 Key Features Face Recognition: Automatically identifies students and marks attendance. Image Capture: Capture and save face images for training the recognition model. Manual Attendance: Option to manually update attendance records. CSV Export: Generate attendance reports in CSV format. Database Integration: Store attendance data in a MySQL database for easy retrieval. Technologies Used Programming: Python Libraries: OpenCV, Tkinter, NumPy, Pandas, Pillow Database: MySQL Installation Install Required Packages: Ensure Python is installed, then use:
 
